@@ -1,6 +1,4 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%                                                                      %
-%                     LEACH-SWDN Implementation                       %
+       %
 %                                                                      %                                  
 %     "A clustering algorithm based on energy information              %
 %                      and cluster heads                               %
@@ -51,7 +49,7 @@ m = 0.1; % Increased from 0.05
 a = 0.1;
 
 % Maximum number of rounds
-rmax = 10000;
+rmax = 30000;
 
 %%%%%%%%%%%%%%%%%%%%%%%%% END OF PARAMETERS %%%%%%%%%%%%%%%%%%%%%%%%
 
